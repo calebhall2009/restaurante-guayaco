@@ -454,11 +454,11 @@ ul { list-style: none; }
 /* Botón CTA parpadeante */
 .btn-cta {
   display: inline-block;
-  padding: 16px 40px;
+  padding: 11px 28px;
   background: linear-gradient(135deg, var(--color-gold), var(--color-gold-dark));
   color: #0e0e0e;
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 0.88rem;
   border-radius: 50px;
   border: none;
   cursor: pointer;
